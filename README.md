@@ -1,6 +1,12 @@
 # mine info
 
+///////////////////////////////
+PLEASE INSERT A DISCLAIMER HERE
+///////////////////////////////
 
+Demo (VNM) : https://cartong.github.io/mainfo/index_vietnam.html
+
+Demo (UKR) : https://cartong.github.io/mainfo/index_ukraine.html
 
 #### A Python script that will connect to the ushahidi DB, round the coordinates to only 2 digits and create a geojson
 
